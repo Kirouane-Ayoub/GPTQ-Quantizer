@@ -1,0 +1,4 @@
+auto-gptq
+transformers
+datasets
+torch
